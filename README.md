@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+<h1>This week we learned about bout Docker, a cloud based repository and its practical use of handling containers. Docker allows the users to 
+push and pull containers efficiently. We had to create a user account to take advantage of the docker services, I never had one so 
+I had to create one. Once account creation was finished our class quickly went over how use docker and what its functions are over a web conference.
+To start an interactive docker terminal I have to use the command docker run -it, I had to get familiar with the new flags. We were also
+taught that docker installs barebone iso files, this means we have to install any packages that we need before we can even use Docker
+efficiently. I had to familiarize myself with commands with online documentation after learning how the syntax worked in class, specifying
+a docker container was giving me issues because of all the different flags, for an example: docker run -it cit481 centos /bin/bash looked
+confusing at first. I now know that cit481 is the tag and centOS being the actual VM when typing that syntax.</h1>
 
-You can use the [editor on GitHub](https://github.com/cameronr27/Weekly-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cameronr27/Weekly-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
