@@ -10,3 +10,4 @@ efficiently.
   I had to familiarize myself with commands using online documentation after learning how the general command line syntax worked in class, specifying a docker container was giving me issues because of all the different flags you can use, for an example: `<docker run -it cit481 centos /bin/bash>` looked confusing at first. I now know that cit481 is the tag and centOS being the actual VM when typing that syntax. These
 two names are important because it helps not only identifying which docker will be selected but also how to remove them.
 
+<h3><a href= "blog2.html">Blog2</a></h3>
